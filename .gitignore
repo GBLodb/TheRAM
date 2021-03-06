@@ -1,4 +1,6 @@
 #Whitelist
+/*
+/.minecraft/*
 
 #git
 !/.gitignore
@@ -6,4 +8,9 @@
 !/README.md
 
 #config
-!/.minecraft/config/acronym/
+!/.minecraft/config/acronym/*
+!/.minecraft/config/modularmachinery/*
+
+#others
+!/.minecraft/resources/*
+!/.minecraft/scripts/*
