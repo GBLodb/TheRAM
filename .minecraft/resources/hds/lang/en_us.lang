@@ -1,0 +1,10 @@
+modularmachinery.mana_reactor_mk1=Mana Reactor MK1
+
+modularmachinery.ram-active-00=Rainbow Assembly Machine - ACTIVE - 00MODE
+modularmachinery.ram-active-01=Rainbow Assembly Machine - ACTIVE - 01MODE
+modularmachinery.ram-active-10=Rainbow Assembly Machine - ACTIVE - 10MODE
+modularmachinery.ram-active-11=Rainbow Assembly Machine - ACTIVE - 11MODE
+modularmachinery.ram-idle=Rainbow Assembly Machine - IDLE
+modularmachinery.ram-damaged=Rainbow Assembly Machine - DAMAGED
+
+tile.contenttweaker.stabilizer.name=Stabilizer

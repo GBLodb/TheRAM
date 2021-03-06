@@ -1,0 +1,10 @@
+modularmachinery.mana_reactor_mk1=魔力反应堆MK1
+
+modularmachinery.ram-active-00=彩虹装配机 - 激活 - 00模式
+modularmachinery.ram-active-01=彩虹装配机 - 激活 - 01模式
+modularmachinery.ram-active-10=彩虹装配机 - 激活 - 10模式
+modularmachinery.ram-active-11=彩虹装配机 - 激活 - 11模式
+modularmachinery.ram-idle=彩虹装配机 - 空闲
+modularmachinery.ram-damaged=彩虹装配机 - 损坏
+
+tile.contenttweaker.stabilizer.name=稳定器

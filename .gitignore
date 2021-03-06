@@ -1,6 +1,9 @@
-/*
+#Whitelist
 
 #git
 !/.gitignore
 !/LICENSE
 !/README.md
+
+#config
+!/.minecraft/config/acronym/
